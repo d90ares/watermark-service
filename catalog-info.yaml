@@ -11,4 +11,4 @@ metadata:
 spec:
   type: service
   lifecycle: develop
-  group: AT-Liquidacao
+  owner: group: AT-Liquidacao
