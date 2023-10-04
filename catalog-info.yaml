@@ -1,12 +1,4 @@
 apiVersion: backstage.io/v1alpha1
-kind: Group
-metadata:
-  name: AT-Liquidacao
-spec:
-  type: atom-team
-  children: []
----
-apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "watermark-service"
