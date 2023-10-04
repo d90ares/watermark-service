@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: replace-me
-  description: Replace me with a real description.
+  name: watermark-service
+  description: Serviço de marca dágua
   tags:
     - go
-    - website
+    - microservice
 spec:
   type: service
-  lifecycle: production
+  lifecycle: develop
   owner: your-team
