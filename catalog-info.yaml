@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: "watermark-service"
   description: Serviço de marca dágua
+  annotations:
+    backstage.io/techdocs-ref: value
   tags:
     - go
     - microservice
